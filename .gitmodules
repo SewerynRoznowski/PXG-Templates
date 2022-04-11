@@ -1,0 +1,3 @@
+[submodule "pxg_Altis_template"]
+	path = pxg_Altis_template
+	url = https://github.com/SewerynRoznowski/PXG-Scripts.git
