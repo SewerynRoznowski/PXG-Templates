@@ -1,6 +1,0 @@
-[submodule "pxg_Altis_template.Altis"]
-	path = pxg_Altis_template.Altis
-	url = https://github.com/SewerynRoznowski/PXG-Scripts.git
-[submodule "pxg_Bozcaada_template"]
-	path = pxg_Bozcaada_template
-	url = https://github.com/SewerynRoznowski/PXG-Scripts.git
