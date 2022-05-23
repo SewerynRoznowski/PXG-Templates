@@ -1,3 +1,0 @@
-_availableFactions = [];
-
-_availableFactions
